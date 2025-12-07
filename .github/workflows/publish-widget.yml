@@ -20,6 +20,6 @@ jobs:
         run: npm ci
         
       - name: Build and Publish
-        run: npx cosmo publish
+        run: npx -y @buildcosmo/widget@latest publish
         env:
           COSMO_AUTH_TOKEN: ${{ secrets.COSMO_AUTH_TOKEN }}
