@@ -9,5 +9,7 @@
   "keepAspectRatio": false,
   "allowLockScreen": true,
   "allowInternet": false,
-  "backgroundBlurRadius": 30
+  "backgroundBlurRadius": 30,
+  "controlPanelBackgroundColor": "#00000099",
+  "controlPanelTextColor": "#FFFFFF"
 }
