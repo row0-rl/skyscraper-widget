@@ -1,8 +1,6 @@
 name: Publish Widget
 
 on:
-  release:
-    types: [published]
   workflow_dispatch: # Allows manual triggering
 
 jobs:
