@@ -18,8 +18,8 @@
     "vite": "^7.0.0"
   },
   "dependencies": {
-    "@buildcosmo/vite-plugin": "^0.3.0-beta.5",
-    "@buildcosmo/widget": "^0.4.0-beta.5",
+    "@buildcosmo/vite-plugin": "^0.3.0-beta.6",
+    "@buildcosmo/widget": "^0.4.0-beta.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   }
